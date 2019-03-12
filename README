@@ -1,0 +1,5 @@
+For the Yelp Review Dataset Challenge,
+
+Trained the documnet embeddings using doc2vec and then using SVM classifier.
+
+Accuracy achieved - 94.3%. Precision and Recall approximately 94.1%.
